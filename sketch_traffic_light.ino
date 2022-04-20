@@ -288,6 +288,5 @@ void LightFct_SM(){
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   LightFct_SM();   //function call
 }
