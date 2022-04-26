@@ -3,5 +3,6 @@ A traffic light simulator that uses Arduino and any compatable circuit board. To
 Lights cycle just like real traffic lights and the user can press the buttons which represent a pedestrian waiting to cross major or minor roads. Speaker beeps when pedestrian can cross and beeps more rapidly as pedestrian runs out of time to cross. The blue LED represents a pedestian crossing light.
 
 
-# Arduino-Board-Setup:
+# How-To
+The use, one should have the Arduino environment and any compatible board kit with a setup similar to the one shown below.
 ![traffic_light](https://user-images.githubusercontent.com/103550379/164083352-702ac52a-626d-4d6c-a39a-5e862674d552.JPG)
