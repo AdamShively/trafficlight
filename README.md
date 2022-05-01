@@ -6,3 +6,8 @@ Lights cycle just like real traffic lights. The left button represents a pedestr
 # How-To
 The use, one should have the Arduino environment and any compatible board kit with a setup similar to the one shown below. 
 ![traffic_light](https://user-images.githubusercontent.com/103550379/164083352-702ac52a-626d-4d6c-a39a-5e862674d552.JPG)
+
+# Video-Demo
+Pedestrian Crossing Button Pressed: https://youtu.be/BgXr1Irjyow
+Car Sensor Button Pressed: https://youtube.com/shorts/lp3JQDa8OfY?feature=share
+Normal Light Cycle: https://youtu.be/0Femr8q6T_g
